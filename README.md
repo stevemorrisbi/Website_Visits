@@ -1,4 +1,4 @@
-# Analysing Online Store Customer data 
+# Analysing Online Store Purchase data 
 
 Taking a shop's website data for visits, cart, checkout and purchases to analyse how successful the websites sales funnel is during each stage of purchasing process. 
 
